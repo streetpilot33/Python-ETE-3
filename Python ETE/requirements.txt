@@ -6,3 +6,5 @@ plotly
 wordcloud
 pillow
 base64
+markdown-it-py==2.2.0  # Explicit version to prevent conflicts
+rich==13.3.5  # Ensuring a stable version
