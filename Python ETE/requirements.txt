@@ -6,5 +6,7 @@ plotly
 wordcloud
 pillow
 base64
-markdown-it-py==2.2.0  # Explicit version to prevent conflicts
-rich==13.3.5  # Ensuring a stable version
+pygments==2.16.1
+mdurl==0.1.2
+markdown-it-py==2.2.0
+rich==13.3.5
